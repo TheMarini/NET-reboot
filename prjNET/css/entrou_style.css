@@ -1,0 +1,107 @@
+﻿*{padding: 0; margin: 0; font-family: 'Hind', sans-serif, 300;}
+
+body 
+{
+    font-size: 100%;
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 400;
+}
+
+h1
+{   
+    font-weight: 100;
+    text-align: center;
+    font-size: 2.5em;
+    color: white;
+   
+    border: solid 2px white;
+    border-radius: 2px;
+    
+    padding: 17px;
+    margin-bottom: 10px;
+    box-shadow: 0px 0px 20px black;
+    -webkit-animation: opacidade 1.5s infinite alternate; /* Chrome, Safari, Opera */
+    animation: opacidade 1.5s infinite alternate;
+    
+    transition: 1s;
+}
+
+
+section
+{
+    display: box;
+    flex-align: center;
+    flex-pack: center;
+    
+    width: 50%;
+    text-align: center;
+    margin:auto;
+    padding-top: 70px;
+
+}
+
+.imgAvatar
+{
+    margin: 100px 0px -30px 0px;
+    border-radius: 200px;
+    box-shadow: 0px 9px 20px rgba(0,0,0,.3);
+    opacity: 1; 
+    transition: 1s;
+    border: solid 2px white;
+    border-radius: 2px;
+    
+    -webkit-animation: opacidade 1.5s; /* Chrome, Safari, Opera */
+    animation: opacidade 1.5s;
+ }
+ .imgAvatar:hover{opacity: 0.5}
+ 
+ @-webkit-keyframes opacidade {
+    from {opacity: 0.3}
+    to {opacity: 1}
+}
+ 
+ @keyframes opacidade {
+    from {opacity: 0.3}
+    to {opacity: 1}
+}
+
+footer
+{
+    margin: 14.3% 0px 0px 0px
+}
+
+.imgNet{padding-top: 8px; padding-left: 10px; }
+
+footer p
+{
+    
+    float: right;
+    font-size: 2em;
+    color: #DDDDDD;
+    padding: 2px 20px 0px 10px;
+    transition: 0.7s;
+    border-top: solid 2px #DDDDDD;
+    border-left: solid 2px #DDDDDD;
+    box-shadow: 0px 9px 20px rgba(0,0,0,.3);
+}
+footer p:hover{color: white; border-color: white}
+
+.pnlNovato
+{
+    background-image: url("../img/propaganda1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: white;
+    height: 799px;
+    width: auto   
+}
+
+.lblNome
+{
+    font-weight: 100;
+    font-size: 2.5em;
+    -webkit-animation: opacidade 1.5s; /* Chrome, Safari, Opera */
+    animation: opacidade 1.5s;
+}

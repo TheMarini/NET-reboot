@@ -1,0 +1,42 @@
+F:\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.dll
+F:\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.pdb
+F:\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.dll
+F:\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.pdb
+F:\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.csprojResolveAssemblyReference.cache
+J:\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.dll
+J:\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.pdb
+J:\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.csprojResolveAssemblyReference.cache
+J:\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.dll
+J:\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.pdb
+L:\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.dll
+L:\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.pdb
+L:\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\ResolveAssemblyReference.cache
+L:\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.dll
+L:\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.pdb
+G:\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.dll.config
+G:\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.dll
+G:\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.pdb
+G:\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.csprojResolveAssemblyReference.cache
+G:\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.dll
+G:\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.pdb
+D:\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.dll
+D:\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.pdb
+D:\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\ResolveAssemblyReference.cache
+D:\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.dll
+D:\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\Projetos\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.dll
+C:\Users\Bruno\OneDrive\Bruno Editor\Projetos\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\Projetos\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\OneDrive\Bruno Editor\Projetos\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.dll
+C:\Users\Bruno\OneDrive\Bruno Editor\Projetos\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.dll
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.dll
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.pdb
+C:\Users\bruno\Google Drive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.dll.config
+C:\Users\bruno\Google Drive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.dll
+C:\Users\bruno\Google Drive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\NET\prjNET\prjNET\bin\prjNET.pdb
+C:\Users\bruno\Google Drive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Google Drive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.dll
+C:\Users\bruno\Google Drive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\NET\prjNET\prjNET\obj\Debug\prjNET.pdb

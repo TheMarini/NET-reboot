@@ -1,0 +1,80 @@
+﻿*{padding: 0; margin: 0; font-family: 'Hind', sans-serif, 300;}
+
+body 
+{
+    background-image: url("img/bgAzul.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: rgb(0, 97, 178);
+    color: White;
+    font-size: 100%
+}
+
+h1
+{   
+    font-weight: 100;
+    text-align: center;
+    font-size: 2em;
+    background-color: #006eba;
+    
+    padding: 15px;
+    margin-bottom: 15px
+}
+
+p
+{
+    font-size: 1.3em;
+    line-height: 1.2em;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+
+    margin-bottom: 10px;
+    max-size:100%
+}
+
+header
+{    
+    text-align: center;
+    
+    border-radius: 2px;
+    width: 50%;
+    padding: 10px;
+}
+
+section
+{
+    margin-top: 7%;
+    
+    border-radius: 2px;
+    box-shadow: 0 0 9px 2px rgba(0,0,0,.3);
+    background-color: #00a3eb;
+    width: 50%;
+    text-align:left;
+    
+}
+
+header,section
+{   
+    display: box;
+    flex-align: center;
+    flex-pack: center;
+    margin-left: 24%;
+}
+
+
+#Login
+{
+    margin-top: -28%;
+    margin-left: 17.5%;
+}
+
+#Cadastrado
+{
+    margin-top: -3%;
+    background-color: #00a3eb;
+}   
+
+.btnPronto
+{
+    margin-top: -10px;
+    float: right;
+}
